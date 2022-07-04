@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "tgggggggggg",
+      "body": "",
+      "id": 12
+    },
+    {
+      "title": "ggggggg",
+      "body": "ggggggg",
+      "id": 13
+    },
+    {
+      "title": "rtrt",
+      "body": "rtrt",
+      "id": 14
+    },
+    {
+      "title": "rtertert",
+      "body": "rtertert",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
